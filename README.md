@@ -6,7 +6,7 @@
 ## **Introduction**
   In our project, we will try to create a system where we will train some models which help us to determine the diabetes condition of patients.
   
-## **Problem Solved **
+## **Problem Solved**
   The following problems are solved in this project: 
   
   1. Preprocess Data
